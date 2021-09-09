@@ -1,5 +1,12 @@
-import React, {useState} from 'react';
+import React from 'react';
 // import styled from 'styled-components';
+//component
+
+import Header from './components/Header';
+import Home from './components/Home';
+
+//Styles
+import {GlobalStyle} from './GlobalStyle';
 
 
 // const Room= styled.div'
@@ -11,12 +18,12 @@ import React, {useState} from 'react';
 // ';
 function App() {
 
-
-
   return (
     // (Room)
     <div className="App">
-      Start here.
+      <Header />
+      <Home />
+      <GlobalStyle />
       <h1>Hey Use this</h1>
     </div>
   );
