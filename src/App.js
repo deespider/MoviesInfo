@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import MovieRow from './MovieRow.js'
 import $ from 'jquery'
-
+// import { IconName } from "react-icons/fa";
 class App extends Component {
 
   constructor(props) {
@@ -26,7 +26,7 @@ class App extends Component {
 
     // this.state = {rows: movieRows}
 
-    this.performSearch("ant man")
+    this.performSearch("Avengers")
   }
 
   performSearch(searchTerm) {
@@ -72,11 +72,11 @@ class App extends Component {
           <tbody>
             <tr>
               <td>
-                <img alt="app icon" width="50" src="green_app_icon.svg"/>
+                <img alt="app icon" width="50" src="logo.png"/>
               </td>
               <td width="8"/>
               <td>
-                <h1>MoviesDB Search</h1>
+                <h1>Movies Info</h1>
               </td>
             </tr>
           </tbody>
