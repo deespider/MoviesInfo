@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# Movies Info
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align ="center">
+  <img src="./src/images/Sample1.gif" alt="Logo" width="100%" height="auto">
+</p>
+
+
+## About The Project
+
+React App to search any movies or shows to get all the information about it. Powered by TheMovieDB API.
+
+## Technologies Used
+- React JS
+- Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- CSS
+- Html 5
+- Node
+- API
 
 ## Available Scripts
 
@@ -68,3 +83,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## 💚Contributing 
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
