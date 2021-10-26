@@ -1,7 +1,7 @@
 # Movies Info
 
 <p align ="center">
-  <img src="./src/images/Sample1.gif" alt="Logo" width="100%" height="auto">
+  <img src="./src/images/sample1.gif" alt="Logo" width="100%" height="auto">
 </p>
 
 
